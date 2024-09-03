@@ -6,3 +6,6 @@
 ![003](https://github.com/user-attachments/assets/b1631281-e70f-4473-ab2d-fbeeb2fa6485)
 
 ![004](https://github.com/user-attachments/assets/876f4035-818f-4754-b042-dd9745fa2831)
+
+[🐕 바킹독의 실전 알고리즘 🐕]
+https://github.com/encrypted-def/basic-algo-lecture
