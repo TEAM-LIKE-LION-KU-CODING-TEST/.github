@@ -34,6 +34,23 @@
    - [tony9402/baekjoon](https://github.com/tony9402/baekjoon)
    - [tony9402/baekjoon - picked.md](https://github.com/tony9402/baekjoon/blob/main/picked.md)
    - [encrypted-def/basic-algo-lecture - workbook.md](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
+  
+## 벌금 규칙 💰
+1) 예치금/벌금 제도 운영 💸
+- 스터디 시작각 4만원씩 예치금 입금
+- 예치금은 문제미풀이, 오프라인 스터디 불참시 벌금으로 사용
+- 팀장이 팀원의 예치금/벌금 현황을 관리 책임
+- 한 학기종 예치금 소진되면 자동으로 스터디 아웃! 👋👋(bye~)
+<br/>
+ 2) 벌금 FLEX 하는 방법 💪
+- 매주 오프라인 회의는 필수 참석을 원칙으로 함
+- 불가피한 경우, 일요일 (23:59)까지 팀장에게 사유와 불참 의사를 사전에 알릴 수 있음. 다만, 최초 1회는 패널티가 없으며, 2회차부터는 벌금 5,000원
+- 만일 사전에 알림 없이 당일 임의 불참 시, 벌금 10,000원을 FLEX~ 🕺💃
+<br/>
+3) 문제를 풀어야 스터디지~? 🧠
+- 오프라인 스터디 전일까지 깃헙 레포에 풀이 업로드!
+(월요일반 : 일요일 ~23:59 / 화요일반 : 월요일 ~ 23:59)
+- push 타임스탬프 기준 지각/미제출 시 벌금 문제당 1,000원 FLEX 💸
 
 ## In Progress 🚧
 [🐕 바킹독의 실전 알고리즘 🐕](https://github.com/encrypted-def/basic-algo-lecture)
