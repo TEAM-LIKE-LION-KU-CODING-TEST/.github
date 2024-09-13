@@ -52,4 +52,4 @@
 push 타임스탬프 기준 지각/미제출 시 벌금 문제당 1,000원 FLEX 💸<br/>
 
 ## In Progress 🚧
-[🐕 바킹독의 실전 알고리즘 🐕](https://github.com/encrypted-def/basic-algo-lecture)
+### [🐕 바킹독의 실전 알고리즘 🐕](https://github.com/encrypted-def/basic-algo-lecture)
